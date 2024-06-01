@@ -6,11 +6,9 @@
 
 
 
-## GIỚI THIỆU SẢN PHẨM
+## GIỚI THIỆU ĐỀ TÀI
 
 -    **Đề tài:** XÂY DỰNG MÔ HÌNH GOM CỤM CHỒNG CHÉO DỮ LIỆU LỚN DỰA TRÊN THUẬT TOÁN OVERLAPPING K-MEANS
--    **Repository BACKEND:** [Server Flask Backend](https://github.com/duonguwu/FlaskPNJ)
--    **Repository FRONTEND:** [React Native Frontend](https://github.com/duonguwu/DetectionAppPNJ)
 
 ## DATASET
 Thực nghiệm trên 2 bộ dữ liệu:
